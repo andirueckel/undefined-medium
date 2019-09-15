@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="600"/>
+  <unicode hex="2020"/>
+  <outline>
+    <component base="bar"/>
+    <component base="pixel" yOffset="500"/>
+    <component base="pixel" xOffset="100" yOffset="500"/>
+    <component base="pixel" xOffset="200" yOffset="500"/>
+    <component base="pixel" xOffset="300" yOffset="500"/>
+    <component base="pixel" xOffset="400" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 01:53:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="600"/>
+  <unicode hex="2264"/>
+  <outline>
+    <component base="pixel"/>
+    <component base="pixel" xOffset="100"/>
+    <component base="pixel" xOffset="200"/>
+    <component base="pixel" xOffset="300"/>
+    <component base="pixel" xOffset="400"/>
+    <component base="less" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 01:36:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

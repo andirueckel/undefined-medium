@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at" format="1">
+  <advance width="600"/>
+  <unicode hex="0040"/>
+  <outline>
+    <component base="pixel" yOffset="500"/>
+    <component base="pixel" yOffset="400"/>
+    <component base="pixel" yOffset="300"/>
+    <component base="pixel" yOffset="200"/>
+    <component base="pixel" yOffset="100"/>
+    <component base="pixel" xOffset="100"/>
+    <component base="pixel" xOffset="200"/>
+    <component base="pixel" xOffset="300"/>
+    <component base="pixel" xOffset="400"/>
+    <component base="pixel" xOffset="400" yOffset="500"/>
+    <component base="pixel" xOffset="400" yOffset="400"/>
+    <component base="pixel" xOffset="400" yOffset="300"/>
+    <component base="pixel" xOffset="400" yOffset="200"/>
+    <component base="pixel" xOffset="100" yOffset="600"/>
+    <component base="pixel" xOffset="200" yOffset="600"/>
+    <component base="pixel" xOffset="300" yOffset="600"/>
+    <component base="pixel" xOffset="300" yOffset="400"/>
+    <component base="pixel" xOffset="200" yOffset="400"/>
+    <component base="pixel" xOffset="200" yOffset="200"/>
+    <component base="pixel" xOffset="300" yOffset="200"/>
+    <component base="pixel" xOffset="200" yOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 01:46:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

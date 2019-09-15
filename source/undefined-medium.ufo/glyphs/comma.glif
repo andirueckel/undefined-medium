@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="600"/>
+  <unicode hex="002C"/>
+  <outline>
+    <component base="period"/>
+    <component base="pixel" xOffset="200" yOffset="-100"/>
+    <component base="pixel" xOffset="100" yOffset="-200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 01:10:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

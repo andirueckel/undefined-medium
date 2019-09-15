@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1200"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="slash" xOffset="300"/>
+    <component base="uni2074" xOffset="700" yOffset="-500"/>
+    <component base="uni00B3" yOffset="-200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 09:14:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

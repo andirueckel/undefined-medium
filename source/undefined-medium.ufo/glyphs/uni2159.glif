@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2159" format="1">
+  <advance width="1200"/>
+  <unicode hex="2159"/>
+  <outline>
+    <component base="uni00B9" yOffset="-200"/>
+    <component base="slash" xOffset="300"/>
+    <component base="uni2076" xOffset="700" yOffset="-500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni00B9</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 09:14:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>
