@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2153" format="1">
-  <advance width="1200"/>
-  <unicode hex="2153"/>
-  <outline>
-    <component base="uni00B9" yOffset="-200"/>
-    <component base="slash" xOffset="300"/>
-    <component base="uni00B3" xOffset="700" yOffset="-600"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni00B9</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-01-11 09:53:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni2153" format="2">
+	<advance width="600" height="0"/>
+	<unicode hex="2153"/>
+	<outline>
+		<component base="uni00B9" xOffset="50" yOffset="-200"/>
+		<component base="slash" xOffset="350"/>
+		<component base="uni00B3" xOffset="750" yOffset="-600"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni00B9</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>slash</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uni00B3</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-01-03 10:45:11 +0000</string>
+		</dict>
+	</lib>
 </glyph>

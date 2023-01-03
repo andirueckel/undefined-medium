@@ -6,20 +6,16 @@ It is inspired by many 5×7 pixel grid typefaces, especially Gilles Boccon-Gibod
 
 The 400+ character set fully supports Latin Extended-A with Western European, Central European, and South Eastern European languages.
 
-In addition, there’s many typographic symbols, mathematical symbols, superscripts, double-spaced fractions, a copyleft symbol, and a capital sharp s character.
+In addition, there’s many typographical symbols, mathematical symbols, subscripts, superscripts, double-spaced fractions, regular arrows, double-spaced long arrows, a copyleft symbol, a capital sharp s character, et cetera, see below.
 
-Thank you very much, [Toshi Omagari](http://tosche.net) and [David Jonathan Ross](https://djr.com/), for your advice, guidance, and feedback.
+Thank you very much, [Toshi Omagari](https://tosche.net) and [David Jonathan Ross](https://djr.com), for your advice, guidance, critique, and feedback during the design and development process.
 
-![undefined-medium.png](https://raw.githubusercontent.com/andirueckel/undefined-medium/master/documentation/undefined-medium.png)
+![undefined-medium.png](https://raw.githubusercontent.com/andirueckel/undefined-medium/main/documentation/undefined-medium.png)
 
 ## download
 
-undefined medium is available in OTF and TTF fonts for desktop use, as well as in WOFF and WOFF2 fonts for web projects.
-
-You can download the compiled fonts from the [releases](https://github.com/andirueckel/undefined-medium/releases) section of this repository.
+undefined medium is available in OTF and TTF fonts for desktop use, as well as in WOFF and WOFF2 fonts for web projects. You can download the compiled fonts from the [releases](https://github.com/andirueckel/undefined-medium/releases) section of this repository.
 
 ## license
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
-This license is stored in this repository’s [OFL.txt](https://github.com/andirueckel/undefined-medium/blob/master/OFL.txt), and is also available with a FAQ at: https://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is stored in this repository’s [OFL.txt](https://github.com/andirueckel/undefined-medium/blob/main/OFL.txt), and is also available with a FAQ at: https://scripts.sil.org/OFL

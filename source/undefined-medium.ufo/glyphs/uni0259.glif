@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0259" format="2">
+	<advance width="600"/>
+	<unicode hex="0259"/>
+	<outline>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="450" yOffset="100"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="350" yOffset="100"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="250" yOffset="100"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="550" yOffset="300"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="450" yOffset="300"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="350" yOffset="300"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="250" yOffset="300"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="150" yOffset="300"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="450" yOffset="500"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="350" yOffset="500"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="250" yOffset="500"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="550" yOffset="400"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="550" yOffset="200"/>
+		<component base="pixel" xScale="-1" yScale="-1" xOffset="150" yOffset="200"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>7</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>8</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>9</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>10</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>11</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>12</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>13</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

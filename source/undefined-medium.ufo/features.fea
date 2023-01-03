@@ -1,59 +1,215 @@
-# Prefix: Languagesystems
-# automatic
+### class:0:Uppercase ###
+@Uppercase = [
+### open class 'Uppercase' ###
+A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni018F F G Gbreve uni0122 Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J uni004A0301 K uni0136 L Lacute Lcaron uni013B Lslash M N Nacute Ncaron uni0145 Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla uni0218 uni1E9E T Tbar Tcaron uni0162 uni021A U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent uni0394 uni03A9
+### close class 'Uppercase' ###
+];
+
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
 languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-languagesystem latn ROM;
-languagesystem latn MOL;
+languagesystem latn AZE;
+languagesystem latn CRT;
 languagesystem latn KAZ;
 languagesystem latn TAT;
 languagesystem latn TRK;
-languagesystem latn CRT;
-languagesystem latn AZE;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn NLD;
+### close prefix 'Languagesystems' ###
 
+### feature:0:aalt ###
 feature aalt {
-# automatic
+### open feature 'aalt' ###
 feature locl;
+feature subs;
+feature sinf;
+feature sups;
 feature frac;
 feature ordn;
+feature case;
+### close feature 'aalt' ###
 } aalt;
 
+### feature:1:ccmp ###
+feature ccmp {
+### open feature 'ccmp' ###
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb uni0306 uni030C uni0302 uni0312 uni0308 uni0307 gravecomb uni030B uni0304 uni030A tildecomb];
+	@CombiningNonTopAccents = [uni0327 uni0328 uni0338 uni0337 uni0336 uni0335];
+	sub [i j]' @CombiningTopAccents by [dotlessi uni0237];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [dotlessi uni0237];
+	@Markscomb = [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328 uni0335 uni0336 uni0337 uni0338];
+	@MarkscombCase = [uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case uni0304.case uni0312.case uni0326.case uni0327.case uni0328.case uni0335.case uni0336.case uni0337.case uni0338.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+### close feature 'ccmp' ###
+} ccmp;
+
+### feature:2:locl ###
 feature locl {
-# automatic
-script latn;
-language ROM;
-sub Scedilla by uni0218;
-sub scedilla by uni0219;
-sub uni0162 by uni021A;
-sub uni0163 by uni021B;
-language MOL;
-sub Scedilla by uni0218;
-sub scedilla by uni0219;
-sub uni0162 by uni021A;
-sub uni0163 by uni021B;
-language KAZ;
-sub i by i.loclTRK;
-language TAT;
-sub i by i.loclTRK;
-language TRK;
-sub i by i.loclTRK;
-language CRT;
-sub i by i.loclTRK;
-language AZE;
-sub i by i.loclTRK;
+### open feature 'locl' ###
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by i.loclTRK;
+	language CRT;
+	sub i by i.loclTRK;
+	language KAZ;
+	sub i by i.loclTRK;
+	language TAT;
+	sub i by i.loclTRK;
+	language TRK;
+	sub i by i.loclTRK;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by uni0218;
+	sub scedilla by uni0219;
+	sub uni0162 by uni021A;
+	sub uni0163 by uni021B;
+	language MOL;
+	sub Scedilla by uni0218;
+	sub scedilla by uni0219;
+	sub uni0162 by uni021A;
+	sub uni0163 by uni021B;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language NLD;
+	sub iacute j' by uni006A0301;
+	sub Iacute J' by uni004A0301;
+} locl_latn_2;
+### close feature 'locl' ###
 } locl;
 
+### feature:3:subs ###
+feature subs {
+### open feature 'subs' ###
+sub zero by uni2080;
+sub one by uni2081;
+sub two by uni2082;
+sub three by uni2083;
+sub four by uni2084;
+sub five by uni2085;
+sub six by uni2086;
+sub seven by uni2087;
+sub eight by uni2088;
+sub nine by uni2089;
+### close feature 'subs' ###
+} subs;
+
+### feature:4:sinf ###
+feature sinf {
+### open feature 'sinf' ###
+sub zero by uni2080;
+sub one by uni2081;
+sub two by uni2082;
+sub three by uni2083;
+sub four by uni2084;
+sub five by uni2085;
+sub six by uni2086;
+sub seven by uni2087;
+sub eight by uni2088;
+sub nine by uni2089;
+### close feature 'sinf' ###
+} sinf;
+
+### feature:5:sups ###
+feature sups {
+### open feature 'sups' ###
+sub zero by uni2070;
+sub one by uni00B9;
+sub two by uni00B2;
+sub three by uni00B3;
+sub four by uni2074;
+sub five by uni2075;
+sub six by uni2076;
+sub seven by uni2077;
+sub eight by uni2078;
+sub nine by uni2079;
+### close feature 'sups' ###
+} sups;
+
+### feature:6:frac ###
 feature frac {
-# automatic
+### open feature 'frac' ###
+sub one slash eight by oneeighth;
 sub one slash four by onequarter;
+sub three slash eight by threeeighths;
 sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
 sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
 sub one slash three by uni2153;
 sub two slash three by uni2154;
+sub one slash five by uni2155;
+sub two slash five by uni2156;
+sub three slash five by uni2157;
+sub four slash five by uni2158;
+sub one slash six by uni2159;
+sub five slash six by uni215A;
+### close feature 'frac' ###
 } frac;
 
+### feature:7:ordn ###
 feature ordn {
-# automatic
+### open feature 'ordn' ###
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+### close feature 'ordn' ###
 } ordn;
 
+### feature:8:case ###
+feature case {
+### open feature 'case' ###
+sub uni0308 by uni0308.case;
+sub uni0307 by uni0307.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub uni030B by uni030B.case;
+sub uni0302 by uni0302.case;
+sub uni030C by uni030C.case;
+sub uni0306 by uni0306.case;
+sub uni030A by uni030A.case;
+sub tildecomb by tildecomb.case;
+sub uni0304 by uni0304.case;
+sub uni0312 by uni0312.case;
+sub uni0326 by uni0326.case;
+sub uni0327 by uni0327.case;
+sub uni0328 by uni0328.case;
+sub uni0335 by uni0335.case;
+sub uni0336 by uni0336.case;
+sub uni0337 by uni0337.case;
+sub uni0338 by uni0338.case;
+### close feature 'case' ###
+} case;
+
+### feature:9:dlig ###
+feature dlig {
+### open feature 'dlig' ###
+lookupflag IgnoreMarks;
+sub f f by f_f.dlig;
+sub f i by f_i.dlig;
+sub f l by f_l.dlig;
+### close feature 'dlig' ###
+} dlig;
+
+
+table GDEF {
+ GlyphClassDef ,# Base 
+ [f_f.dlig f_i.dlig f_l.dlig], # Liga 
+ [uni0308 uni0307 gravecomb acutecomb uni030B uni030C.alt uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328 uni0335 uni0336 uni0337 uni0338 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case uni0304.case uni0312.case uni0326.case uni0327.case uni0328.case uni0335.case uni0336.case uni0337.case uni0338.case], # Mark 
+ ;
+ } GDEF;
