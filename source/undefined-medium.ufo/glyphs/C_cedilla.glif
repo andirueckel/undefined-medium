@@ -1,32 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccedilla" format="2">
-	<advance width="600"/>
-	<unicode hex="00C7"/>
-	<outline>
-		<component base="C"/>
-		<component base="uni0327.case"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>C</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>uni0327.case</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <component base="C" identifier="46E5F7D3"/>
+    <component base="uni0327.case" identifier="919B7861"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 02:21:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>46E5F7D3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>919B7861</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

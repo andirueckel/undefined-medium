@@ -18,4 +18,4 @@ undefined medium is available in OTF and TTF fonts for desktop use, as well as i
 
 ## license
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is stored in this repository’s [OFL.txt](https://github.com/andirueckel/undefined-medium/blob/main/OFL.txt), and is also available with a FAQ at: https://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is stored in this repository’s [OFL.txt](https://github.com/andirueckel/undefined-medium/blob/main/OFL.txt), and is also available with a FAQ at: https://openfontlicense.org

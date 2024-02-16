@@ -1,32 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="imacron" format="2">
-	<advance width="600"/>
-	<unicode hex="012B"/>
-	<outline>
-		<component base="dotlessi"/>
-		<component base="uni0304"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>dotlessi</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>uni0304</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="012B"/>
+  <outline>
+    <component base="dotlessi" identifier="49FAFF9D"/>
+    <component base="uni0304" identifier="F669F988"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-26 11:24:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>49FAFF9D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F669F988</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

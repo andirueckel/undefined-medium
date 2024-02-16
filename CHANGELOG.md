@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.200
+
+### glyph improvements
+
+- improvements for `l` + `l*` combinations
+
 ## v1.101
 
 ### glyph additions

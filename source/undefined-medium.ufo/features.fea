@@ -1,12 +1,8 @@
-### class:0:Uppercase ###
-@Uppercase = [
-### open class 'Uppercase' ###
-A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni018F F G Gbreve uni0122 Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J uni004A0301 K uni0136 L Lacute Lcaron uni013B Lslash M N Nacute Ncaron uni0145 Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla uni0218 uni1E9E T Tbar Tcaron uni0162 uni021A U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent uni0394 uni03A9
-### close class 'Uppercase' ###
-];
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni018F F G Gbreve uni0122 Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J uni004A0301 K uni0136 L Lacute Lcaron uni013B Lslash M N Nacute Ncaron uni0145 Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla uni0218 uni1E9E T Tbar Tcaron uni0162 uni021A U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent uni0394 uni03A9 ];
 
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
+# Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 languagesystem latn dflt;
@@ -18,11 +14,9 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn NLD;
-### close prefix 'Languagesystems' ###
 
-### feature:0:aalt ###
 feature aalt {
-### open feature 'aalt' ###
+# automatic
 feature locl;
 feature subs;
 feature sinf;
@@ -30,12 +24,10 @@ feature sups;
 feature frac;
 feature ordn;
 feature case;
-### close feature 'aalt' ###
 } aalt;
 
-### feature:1:ccmp ###
 feature ccmp {
-### open feature 'ccmp' ###
+# automatic
 lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb uni0306 uni030C uni0302 uni0312 uni0308 uni0307 gravecomb uni030B uni0304 uni030A tildecomb];
 	@CombiningNonTopAccents = [uni0327 uni0328 uni0338 uni0337 uni0336 uni0335];
@@ -51,12 +43,10 @@ lookup ccmp_Other_2 {
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
 } ccmp_Other_2;
-### close feature 'ccmp' ###
 } ccmp;
 
-### feature:2:locl ###
 feature locl {
-### open feature 'locl' ###
+# automatic
 lookup locl_latn_0 {
 	script latn;
 	language AZE;
@@ -91,12 +81,10 @@ lookup locl_latn_2 {
 	sub iacute j' by uni006A0301;
 	sub Iacute J' by uni004A0301;
 } locl_latn_2;
-### close feature 'locl' ###
 } locl;
 
-### feature:3:subs ###
 feature subs {
-### open feature 'subs' ###
+# automatic
 sub zero by uni2080;
 sub one by uni2081;
 sub two by uni2082;
@@ -107,12 +95,10 @@ sub six by uni2086;
 sub seven by uni2087;
 sub eight by uni2088;
 sub nine by uni2089;
-### close feature 'subs' ###
 } subs;
 
-### feature:4:sinf ###
 feature sinf {
-### open feature 'sinf' ###
+# automatic
 sub zero by uni2080;
 sub one by uni2081;
 sub two by uni2082;
@@ -123,12 +109,10 @@ sub six by uni2086;
 sub seven by uni2087;
 sub eight by uni2088;
 sub nine by uni2089;
-### close feature 'sinf' ###
 } sinf;
 
-### feature:5:sups ###
 feature sups {
-### open feature 'sups' ###
+# automatic
 sub zero by uni2070;
 sub one by uni00B9;
 sub two by uni00B2;
@@ -139,12 +123,10 @@ sub six by uni2076;
 sub seven by uni2077;
 sub eight by uni2078;
 sub nine by uni2079;
-### close feature 'sups' ###
 } sups;
 
-### feature:6:frac ###
 feature frac {
-### open feature 'frac' ###
+# automatic
 sub one slash eight by oneeighth;
 sub one slash four by onequarter;
 sub three slash eight by threeeighths;
@@ -160,20 +142,16 @@ sub three slash five by uni2157;
 sub four slash five by uni2158;
 sub one slash six by uni2159;
 sub five slash six by uni215A;
-### close feature 'frac' ###
 } frac;
 
-### feature:7:ordn ###
 feature ordn {
-### open feature 'ordn' ###
+# automatic
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-### close feature 'ordn' ###
 } ordn;
 
-### feature:8:case ###
 feature case {
-### open feature 'case' ###
+# automatic
 sub uni0308 by uni0308.case;
 sub uni0307 by uni0307.case;
 sub gravecomb by gravecomb.case;
@@ -193,23 +171,13 @@ sub uni0335 by uni0335.case;
 sub uni0336 by uni0336.case;
 sub uni0337 by uni0337.case;
 sub uni0338 by uni0338.case;
-### close feature 'case' ###
 } case;
 
-### feature:9:dlig ###
 feature dlig {
-### open feature 'dlig' ###
+# automatic
 lookupflag IgnoreMarks;
 sub f f by f_f.dlig;
 sub f i by f_i.dlig;
 sub f l by f_l.dlig;
-### close feature 'dlig' ###
 } dlig;
 
-
-table GDEF {
- GlyphClassDef ,# Base 
- [f_f.dlig f_i.dlig f_l.dlig], # Liga 
- [uni0308 uni0307 gravecomb acutecomb uni030B uni030C.alt uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312 uni0326 uni0327 uni0328 uni0335 uni0336 uni0337 uni0338 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case uni0304.case uni0312.case uni0326.case uni0327.case uni0328.case uni0335.case uni0336.case uni0337.case uni0338.case], # Mark 
- ;
- } GDEF;

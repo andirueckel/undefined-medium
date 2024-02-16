@@ -1,122 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="integral" format="2">
-	<advance width="600"/>
-	<unicode hex="222B"/>
-	<outline>
-		<component base="pixel" xOffset="50" yOffset="-150"/>
-		<component base="pixel" xOffset="250" yOffset="350"/>
-		<component base="pixel" xOffset="250" yOffset="450"/>
-		<component base="pixel" xOffset="250" yOffset="550"/>
-		<component base="pixel" xOffset="150" yOffset="-150"/>
-		<component base="pixel" xOffset="250" yOffset="-50"/>
-		<component base="pixel" xOffset="250" yOffset="50"/>
-		<component base="pixel" xOffset="250" yOffset="150"/>
-		<component base="pixel" xOffset="250" yOffset="250"/>
-		<component base="pixel" xOffset="250" yOffset="650"/>
-		<component base="pixel" xOffset="350" yOffset="750"/>
-		<component base="pixel" xOffset="450" yOffset="750"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>3</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>4</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>5</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>6</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>7</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>8</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>9</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>10</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>11</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="222B"/>
+  <outline>
+    <component base="pixel" xOffset="50" yOffset="-150" identifier="D5DC3261"/>
+    <component base="pixel" xOffset="250" yOffset="350" identifier="CCF6F199"/>
+    <component base="pixel" xOffset="250" yOffset="450" identifier="C3BDFBCA"/>
+    <component base="pixel" xOffset="250" yOffset="550" identifier="6ECAC7B5"/>
+    <component base="pixel" xOffset="150" yOffset="-150" identifier="F09A3570"/>
+    <component base="pixel" xOffset="250" yOffset="-50" identifier="68D7BDA5"/>
+    <component base="pixel" xOffset="250" yOffset="50" identifier="DF699A08"/>
+    <component base="pixel" xOffset="250" yOffset="150" identifier="DBBFF252"/>
+    <component base="pixel" xOffset="250" yOffset="250" identifier="A30329C5"/>
+    <component base="pixel" xOffset="250" yOffset="650" identifier="4EEBF710"/>
+    <component base="pixel" xOffset="350" yOffset="750" identifier="7D336227"/>
+    <component base="pixel" xOffset="450" yOffset="750" identifier="189CF090"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-01-02 23:46:52 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>189CF090</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4EEBF710</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>68D7BDA5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6ECAC7B5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7D336227</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A30329C5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C3BDFBCA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CCF6F199</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D5DC3261</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DBBFF252</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DF699A08</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F09A3570</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,69 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2031" format="2">
-	<advance width="1200" height="0"/>
-	<unicode hex="2031"/>
-	<outline>
-		<component base="perthousand"/>
-		<component base="pixel" xOffset="850"/>
-		<component base="pixel" xOffset="950" yOffset="200"/>
-		<component base="pixel" xOffset="1050" yOffset="200"/>
-		<component base="pixel" xOffset="950"/>
-		<component base="pixel" xOffset="1050" yOffset="100"/>
-		<component base="pixel" xOffset="850" yOffset="100"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>3</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>4</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>5</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>6</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="1200" height="0"/>
+  <unicode hex="2031"/>
+  <outline>
+    <component base="perthousand"/>
+    <component base="pixel" xOffset="850" identifier="AC18F689"/>
+    <component base="pixel" xOffset="950" yOffset="200" identifier="EC4FAF76"/>
+    <component base="pixel" xOffset="1050" yOffset="200" identifier="62AE62B8"/>
+    <component base="pixel" xOffset="950" identifier="1C748DEC"/>
+    <component base="pixel" xOffset="1050" yOffset="100" identifier="BF650057"/>
+    <component base="pixel" xOffset="850" yOffset="100" identifier="27C5E633"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-01-03 10:20:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1C748DEC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>27C5E633</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>62AE62B8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AC18F689</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BF650057</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EC4FAF76</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

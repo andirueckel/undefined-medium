@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2087" format="2">
-	<advance width="600"/>
-	<unicode hex="2087"/>
-	<outline>
-		<component base="uni2077" yOffset="-600"/>
-	</outline>
+  <advance width="600"/>
+  <unicode hex="2087"/>
+  <outline>
+    <component base="uni2077" yOffset="-600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-30 16:57:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>

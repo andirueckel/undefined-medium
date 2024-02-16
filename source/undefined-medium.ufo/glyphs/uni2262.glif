@@ -1,51 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2262" format="2">
-	<advance width="600"/>
-	<unicode hex="2262"/>
-	<outline>
-		<component base="equivalence"/>
-		<component base="pixel" yScale="0.5" xOffset="350" yOffset="550"/>
-		<component base="pixel" yScale="0.5" xOffset="300" yOffset="400"/>
-		<component base="pixel" yScale="0.5" xOffset="200" yOffset="250"/>
-		<component base="pixel" yScale="0.5" xOffset="150" yOffset="100"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>3</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>4</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="2262"/>
+  <outline>
+    <component base="equivalence"/>
+    <component base="pixel" yScale="0.5" xOffset="350" yOffset="550" identifier="6D07DDA8"/>
+    <component base="pixel" yScale="0.5" xOffset="300" yOffset="400" identifier="14C58835"/>
+    <component base="pixel" yScale="0.5" xOffset="200" yOffset="250" identifier="C38F88D6"/>
+    <component base="pixel" yScale="0.5" xOffset="150" yOffset="100" identifier="1D14905B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-31 08:46:54 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>14C58835</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1D14905B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6D07DDA8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C38F88D6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

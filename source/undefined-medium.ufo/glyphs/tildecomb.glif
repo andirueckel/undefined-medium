@@ -1,50 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
-	<advance width="0"/>
-	<unicode hex="0303"/>
-	<outline>
-		<component base="pixel" xScale="1.5" xOffset="300" yOffset="600"/>
-		<component base="pixel" xOffset="50" yOffset="600"/>
-		<component base="pixel" xScale="1.5" xOffset="150" yOffset="700"/>
-		<component base="pixel" xOffset="450" yOffset="700"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>3</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="0303"/>
+  <outline>
+    <component base="pixel" xScale="1.5" xOffset="300" yOffset="600" identifier="36D023F5"/>
+    <component base="pixel" xOffset="50" yOffset="600" identifier="0AF00AB3"/>
+    <component base="pixel" xScale="1.5" xOffset="150" yOffset="700" identifier="7074B96A"/>
+    <component base="pixel" xOffset="450" yOffset="700" identifier="20188861"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-31 08:04:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0AF00AB3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>20188861</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>36D023F5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7074B96A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

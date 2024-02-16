@@ -1,43 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onequarter" format="2">
-	<advance width="600" height="0"/>
-	<unicode hex="00BC"/>
-	<outline>
-		<component base="uni00B9" xOffset="50" yOffset="-200"/>
-		<component base="slash" xOffset="350"/>
-		<component base="uni2074" xOffset="750" yOffset="-500"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>uni00B9</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>slash</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>uni2074</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2023-01-03 10:45:11 +0000</string>
-		</dict>
-	</lib>
+  <advance width="1200" height="0"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="uni00B9" xOffset="50" yOffset="-200" identifier="88F8E31D"/>
+    <component base="slash" xOffset="350" identifier="CCD30190"/>
+    <component base="uni2074" xOffset="750" yOffset="-500" identifier="CE52AF24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-01-03 10:20:27 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>88F8E31D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CCD30190</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CE52AF24</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

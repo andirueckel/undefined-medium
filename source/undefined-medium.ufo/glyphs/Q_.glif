@@ -1,33 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-	<advance width="600"/>
-	<unicode hex="0051"/>
-	<outline>
-		<component base="O"/>
-		<component base="pixel" xOffset="450" yOffset="-100"/>
-		<component base="pixel" xOffset="350" yOffset="-100"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <component base="pixel" xOffset="450" yOffset="-100" identifier="7FEADDA7"/>
+    <component base="pixel" xOffset="350" yOffset="-100" identifier="4A4C6560"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-31 08:18:19 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4A4C6560</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7FEADDA7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

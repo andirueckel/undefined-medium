@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar" format="2">
-	<advance width="600"/>
-	<unicode hex="0024"/>
-	<outline>
-		<component base="pixel" xOffset="450" yOffset="500"/>
-		<component base="pixel" xOffset="350" yOffset="600"/>
-		<component base="pixel" xOffset="250" yOffset="600"/>
-		<component base="pixel" xOffset="150" yOffset="600"/>
-		<component base="pixel" xOffset="50" yOffset="500"/>
-		<component base="pixel" xOffset="50" yOffset="400"/>
-		<component base="pixel" xOffset="150" yOffset="300"/>
-		<component base="pixel" xOffset="250" yOffset="300"/>
-		<component base="pixel" xOffset="350" yOffset="300"/>
-		<component base="pixel" xOffset="450" yOffset="200"/>
-		<component base="pixel" xOffset="450" yOffset="100"/>
-		<component base="pixel" xOffset="350"/>
-		<component base="pixel" xOffset="250"/>
-		<component base="pixel" xOffset="150"/>
-		<component base="pixel" xOffset="50" yOffset="100"/>
-		<component base="pixel" xOffset="250" yOffset="700"/>
-		<component base="pixel" xOffset="250" yOffset="500"/>
-		<component base="pixel" xOffset="250" yOffset="400"/>
-		<component base="pixel" xOffset="250" yOffset="200"/>
-		<component base="pixel" xOffset="250" yOffset="100"/>
-		<component base="pixel" xOffset="250" yOffset="-100"/>
-	</outline>
+  <advance width="600"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component base="pixel" xOffset="450" yOffset="500"/>
+    <component base="pixel" xOffset="350" yOffset="600"/>
+    <component base="pixel" xOffset="250" yOffset="600"/>
+    <component base="pixel" xOffset="150" yOffset="600"/>
+    <component base="pixel" xOffset="50" yOffset="500"/>
+    <component base="pixel" xOffset="50" yOffset="400"/>
+    <component base="pixel" xOffset="150" yOffset="300"/>
+    <component base="pixel" xOffset="250" yOffset="300"/>
+    <component base="pixel" xOffset="350" yOffset="300"/>
+    <component base="pixel" xOffset="450" yOffset="200"/>
+    <component base="pixel" xOffset="450" yOffset="100"/>
+    <component base="pixel" xOffset="350"/>
+    <component base="pixel" xOffset="250"/>
+    <component base="pixel" xOffset="150"/>
+    <component base="pixel" xOffset="50" yOffset="100"/>
+    <component base="pixel" xOffset="250" yOffset="700"/>
+    <component base="pixel" xOffset="250" yOffset="500"/>
+    <component base="pixel" xOffset="250" yOffset="400"/>
+    <component base="pixel" xOffset="250" yOffset="200"/>
+    <component base="pixel" xOffset="250" yOffset="100"/>
+    <component base="pixel" xOffset="250" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-31 08:46:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

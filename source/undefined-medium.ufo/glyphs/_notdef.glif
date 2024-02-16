@@ -1,85 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
-	<advance width="600"/>
-	<outline>
-		<component base="pixel" xOffset="50" yOffset="700"/>
-		<component base="pixel" xOffset="50" yOffset="600"/>
-		<component base="pixel" xOffset="50" yOffset="400"/>
-		<component base="pixel" xOffset="50" yOffset="300"/>
-		<component base="pixel" xOffset="50" yOffset="200"/>
-		<component base="pixel" xOffset="50" yOffset="100"/>
-		<component base="pixel" xOffset="50"/>
-		<component base="pixel" xOffset="50" yOffset="-100"/>
-		<component base="pixel" xOffset="450" yOffset="700"/>
-		<component base="pixel" xOffset="450" yOffset="600"/>
-		<component base="pixel" xOffset="450" yOffset="500"/>
-		<component base="pixel" xOffset="450" yOffset="400"/>
-		<component base="pixel" xOffset="450" yOffset="300"/>
-		<component base="pixel" xOffset="450" yOffset="200"/>
-		<component base="pixel" xOffset="450" yOffset="100"/>
-		<component base="pixel" xOffset="450"/>
-		<component base="pixel" xOffset="450" yOffset="-100"/>
-		<component base="pixel" xOffset="50" yOffset="500"/>
-		<component base="pixel" xOffset="350" yOffset="700"/>
-		<component base="pixel" xOffset="250" yOffset="700"/>
-		<component base="pixel" xOffset="150" yOffset="700"/>
-		<component base="pixel" xOffset="150" yOffset="-100"/>
-		<component base="pixel" xOffset="250" yOffset="-100"/>
-		<component base="pixel" xOffset="350" yOffset="-100"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>18</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>19</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>20</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>21</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>22</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>23</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <outline>
+    <component base="pixel" xOffset="50" yOffset="700"/>
+    <component base="pixel" xOffset="50" yOffset="600"/>
+    <component base="pixel" xOffset="50" yOffset="400"/>
+    <component base="pixel" xOffset="50" yOffset="300"/>
+    <component base="pixel" xOffset="50" yOffset="200"/>
+    <component base="pixel" xOffset="50" yOffset="100"/>
+    <component base="pixel" xOffset="50"/>
+    <component base="pixel" xOffset="50" yOffset="-100"/>
+    <component base="pixel" xOffset="450" yOffset="700"/>
+    <component base="pixel" xOffset="450" yOffset="600"/>
+    <component base="pixel" xOffset="450" yOffset="500"/>
+    <component base="pixel" xOffset="450" yOffset="400"/>
+    <component base="pixel" xOffset="450" yOffset="300"/>
+    <component base="pixel" xOffset="450" yOffset="200"/>
+    <component base="pixel" xOffset="450" yOffset="100"/>
+    <component base="pixel" xOffset="450"/>
+    <component base="pixel" xOffset="450" yOffset="-100"/>
+    <component base="pixel" xOffset="50" yOffset="500"/>
+    <component base="pixel" xOffset="350" yOffset="700" identifier="B698E452"/>
+    <component base="pixel" xOffset="250" yOffset="700" identifier="F249041C"/>
+    <component base="pixel" xOffset="150" yOffset="700" identifier="4054D630"/>
+    <component base="pixel" xOffset="150" yOffset="-100" identifier="1B5A0C35"/>
+    <component base="pixel" xOffset="250" yOffset="-100" identifier="58BCAB7E"/>
+    <component base="pixel" xOffset="350" yOffset="-100" identifier="618B758F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-31 08:41:12 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1B5A0C35</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4054D630</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>58BCAB7E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>618B758F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B698E452</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F249041C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

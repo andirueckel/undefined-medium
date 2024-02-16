@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-	<advance width="600"/>
-	<unicode hex="2020"/>
-	<outline>
-		<component base="bar"/>
-		<component base="pixel" xOffset="50" yOffset="500"/>
-		<component base="pixel" xOffset="150" yOffset="500"/>
-		<component base="pixel" xOffset="350" yOffset="500"/>
-		<component base="pixel" xOffset="450" yOffset="500"/>
-	</outline>
+  <advance width="600"/>
+  <unicode hex="2020"/>
+  <outline>
+    <component base="bar"/>
+    <component base="pixel" xOffset="50" yOffset="500"/>
+    <component base="pixel" xOffset="150" yOffset="500"/>
+    <component base="pixel" xOffset="350" yOffset="500"/>
+    <component base="pixel" xOffset="450" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-12-31 08:45:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>
