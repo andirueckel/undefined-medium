@@ -2,7 +2,7 @@
 <glyph name="uni004A0301" format="2">
   <advance width="600"/>
   <outline>
-    <component base="J" identifier="A60A57F5"/>
+    <component base="J" identifier="B0B644CB"/>
     <component base="acutecomb.case" xOffset="200"/>
   </outline>
   <lib>
@@ -11,7 +11,7 @@
       <string>2022-12-31 09:16:26 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>A60A57F5</key>
+        <key>B0B644CB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

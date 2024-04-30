@@ -3,8 +3,8 @@
   <advance width="600"/>
   <unicode hex="0156"/>
   <outline>
-    <component base="R" identifier="654685A1"/>
-    <component base="uni0326.case" identifier="016BF959"/>
+    <component base="R" identifier="2DD7BE4F"/>
+    <component base="uni0326.case" identifier="6629D309"/>
   </outline>
   <lib>
     <dict>
@@ -12,12 +12,12 @@
       <string>2019-01-12 16:04:51 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>016BF959</key>
+        <key>2DD7BE4F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>654685A1</key>
+        <key>6629D309</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

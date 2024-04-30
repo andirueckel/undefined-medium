@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0328" format="2">
-  <advance width="600"/>
+  <advance width="0"/>
   <unicode hex="0328"/>
   <outline>
-    <component base="pixel" xOffset="450" identifier="47320B22"/>
-    <component base="pixel" xOffset="550" yOffset="-200" identifier="F888A62F"/>
-    <component base="pixel" xOffset="350" yOffset="-100" identifier="A37FF524"/>
-    <component base="pixel" xOffset="450" yOffset="-200" identifier="AA5E0A52"/>
+    <component base="pixel" xOffset="450" identifier="C1910533"/>
+    <component base="pixel" xOffset="550" yOffset="-200" identifier="34710E17"/>
+    <component base="pixel" xOffset="350" yOffset="-100" identifier="3EB33128"/>
+    <component base="pixel" xOffset="450" yOffset="-200" identifier="55B331EA"/>
   </outline>
   <lib>
     <dict>
@@ -14,22 +14,22 @@
       <string>2022-12-31 08:07:54 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>47320B22</key>
+        <key>34710E17</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A37FF524</key>
+        <key>3EB33128</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AA5E0A52</key>
+        <key>55B331EA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F888A62F</key>
+        <key>C1910533</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
-  <advance width="600"/>
+  <advance width="0"/>
   <unicode hex="0303"/>
   <outline>
-    <component base="pixel" xScale="1.5" xOffset="300" yOffset="600" identifier="36D023F5"/>
-    <component base="pixel" xOffset="50" yOffset="600" identifier="0AF00AB3"/>
-    <component base="pixel" xScale="1.5" xOffset="150" yOffset="700" identifier="7074B96A"/>
-    <component base="pixel" xOffset="450" yOffset="700" identifier="20188861"/>
+    <component base="pixel" xScale="1.5" xOffset="300" yOffset="600" identifier="E6DD0B67"/>
+    <component base="pixel" xOffset="50" yOffset="600" identifier="AA790D61"/>
+    <component base="pixel" xScale="1.5" xOffset="150" yOffset="700" identifier="38504A71"/>
+    <component base="pixel" xOffset="450" yOffset="700" identifier="D8DBEFBE"/>
   </outline>
   <lib>
     <dict>
@@ -14,22 +14,22 @@
       <string>2022-12-31 08:04:36 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0AF00AB3</key>
+        <key>38504A71</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>20188861</key>
+        <key>AA790D61</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>36D023F5</key>
+        <key>D8DBEFBE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7074B96A</key>
+        <key>E6DD0B67</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

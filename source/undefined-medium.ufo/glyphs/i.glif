@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="pixel" xOffset="250" yOffset="600" identifier="8B43C351"/>
+    <component base="pixel" xOffset="250" yOffset="600" identifier="B4817787"/>
     <component base="dotlessi"/>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
       <string>2022-12-31 08:24:54 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8B43C351</key>
+        <key>B4817787</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

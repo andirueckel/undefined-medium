@@ -3,21 +3,21 @@
   <advance width="600"/>
   <unicode hex="0137"/>
   <outline>
-    <component base="k" identifier="6DFEAFEB"/>
-    <component base="uni0326" identifier="87D23275"/>
+    <component base="k" identifier="C782C80B"/>
+    <component base="uni0326" identifier="6D4A4D7B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-01-12 16:04:51 +0000</string>
+      <string>2024-04-23 06:50:41 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6DFEAFEB</key>
+        <key>6D4A4D7B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>87D23275</key>
+        <key>C782C80B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

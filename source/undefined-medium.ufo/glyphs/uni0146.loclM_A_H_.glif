@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0146.loclMAH" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="n"/>
+    <component base="uni0326.loclMAH"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-23 07:04:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,13 +3,13 @@
   <advance width="600"/>
   <unicode hex="2014"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="300" identifier="C40CD4B4"/>
-    <component base="pixel" xOffset="250" yOffset="300" identifier="C2C9333D"/>
-    <component base="pixel" xOffset="350" yOffset="300" identifier="06E3CE15"/>
-    <component base="pixel" xOffset="50" yOffset="300" identifier="031DDA21"/>
-    <component base="pixel" xOffset="450" yOffset="300" identifier="60E421CE"/>
-    <component base="pixel" xOffset="550" yOffset="300" identifier="9AE1646C"/>
-    <component base="pixel" xOffset="-50" yOffset="300" identifier="B416FB1A"/>
+    <component base="pixel" xOffset="150" yOffset="300" identifier="C496D93E"/>
+    <component base="pixel" xOffset="250" yOffset="300" identifier="09896278"/>
+    <component base="pixel" xOffset="350" yOffset="300" identifier="70279D65"/>
+    <component base="pixel" xOffset="50" yOffset="300" identifier="0CB18852"/>
+    <component base="pixel" xOffset="450" yOffset="300" identifier="F931051A"/>
+    <component base="pixel" xOffset="550" yOffset="300" identifier="24AC7257"/>
+    <component base="pixel" xOffset="-50" yOffset="300" identifier="8F731403"/>
   </outline>
   <lib>
     <dict>
@@ -17,37 +17,37 @@
       <string>2023-01-03 10:03:33 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>031DDA21</key>
+        <key>09896278</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>06E3CE15</key>
+        <key>0CB18852</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>60E421CE</key>
+        <key>24AC7257</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9AE1646C</key>
+        <key>70279D65</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B416FB1A</key>
+        <key>8F731403</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C2C9333D</key>
+        <key>C496D93E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C40CD4B4</key>
+        <key>F931051A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,12 +3,12 @@
   <advance width="600"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="pixel" xOffset="250" identifier="E0DEC4D0"/>
-    <component base="pixel" xOffset="250" yOffset="600" identifier="7589E7EA"/>
-    <component base="pixel" xOffset="250" yOffset="400" identifier="7F656E41"/>
-    <component base="pixel" xOffset="250" yOffset="200" identifier="0CC65C5B"/>
-    <component base="pixel" xOffset="250" yOffset="300" identifier="4012ED86"/>
-    <component base="pixel" xOffset="250" yOffset="100" identifier="1E833517"/>
+    <component base="pixel" xOffset="250" identifier="49959EC7"/>
+    <component base="pixel" xOffset="250" yOffset="600" identifier="DD8CEA9D"/>
+    <component base="pixel" xOffset="250" yOffset="400" identifier="33DA9167"/>
+    <component base="pixel" xOffset="250" yOffset="200" identifier="F4B47667"/>
+    <component base="pixel" xOffset="250" yOffset="300" identifier="60DB4D05"/>
+    <component base="pixel" xOffset="250" yOffset="100" identifier="19E77681"/>
   </outline>
   <lib>
     <dict>
@@ -16,32 +16,32 @@
       <string>2022-12-31 08:41:39 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0CC65C5B</key>
+        <key>19E77681</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>1E833517</key>
+        <key>33DA9167</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4012ED86</key>
+        <key>49959EC7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7589E7EA</key>
+        <key>60DB4D05</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7F656E41</key>
+        <key>DD8CEA9D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E0DEC4D0</key>
+        <key>F4B47667</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

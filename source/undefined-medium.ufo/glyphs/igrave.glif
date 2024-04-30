@@ -3,8 +3,8 @@
   <advance width="600"/>
   <unicode hex="00EC"/>
   <outline>
-    <component base="dotlessi" identifier="C25FF57F"/>
-    <component base="gravecomb" identifier="284E219F"/>
+    <component base="dotlessi" identifier="09876B2D"/>
+    <component base="gravecomb" identifier="D751906A"/>
   </outline>
   <lib>
     <dict>
@@ -12,12 +12,12 @@
       <string>2022-12-26 11:25:36 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>284E219F</key>
+        <key>09876B2D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C25FF57F</key>
+        <key>D751906A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,12 +3,12 @@
   <advance width="600"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="pixel" xOffset="50" identifier="07F7283F"/>
-    <component base="pixel" xOffset="150" identifier="4CC15ACC"/>
-    <component base="pixel" xOffset="250" identifier="2BF0FF91"/>
-    <component base="pixel" xOffset="350" identifier="F1FCDB05"/>
-    <component base="pixel" xOffset="450" identifier="DAAC9446"/>
-    <component base="less" yOffset="100" identifier="0731F550"/>
+    <component base="pixel" xOffset="50" identifier="0A765D74"/>
+    <component base="pixel" xOffset="150" identifier="6C8AF149"/>
+    <component base="pixel" xOffset="250" identifier="68CDC60B"/>
+    <component base="pixel" xOffset="350" identifier="D5B6B172"/>
+    <component base="pixel" xOffset="450" identifier="ECA7C87E"/>
+    <component base="less" yOffset="100" identifier="97F6BE22"/>
   </outline>
   <lib>
     <dict>
@@ -16,32 +16,32 @@
       <string>2022-12-31 08:47:39 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0731F550</key>
+        <key>0A765D74</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>07F7283F</key>
+        <key>68CDC60B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2BF0FF91</key>
+        <key>6C8AF149</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4CC15ACC</key>
+        <key>97F6BE22</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DAAC9446</key>
+        <key>D5B6B172</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F1FCDB05</key>
+        <key>ECA7C87E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

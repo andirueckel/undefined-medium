@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="2019"/>
   <outline>
-    <component base="pixel" xOffset="300" yOffset="700" identifier="5AEC8377"/>
+    <component base="pixel" xOffset="300" yOffset="700" identifier="47566437"/>
     <component base="pixel" xOffset="300" yOffset="600"/>
     <component base="pixel" xOffset="200" yOffset="500"/>
   </outline>
@@ -13,7 +13,7 @@
       <string>2022-12-31 08:42:43 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5AEC8377</key>
+        <key>47566437</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

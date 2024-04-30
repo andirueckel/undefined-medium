@@ -3,8 +3,8 @@
   <advance width="600"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="dotlessi" identifier="49FAFF9D"/>
-    <component base="uni0304" identifier="F669F988"/>
+    <component base="dotlessi" identifier="E1FC0349"/>
+    <component base="uni0304" identifier="5D1CB516"/>
   </outline>
   <lib>
     <dict>
@@ -12,12 +12,12 @@
       <string>2022-12-26 11:24:50 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>49FAFF9D</key>
+        <key>5D1CB516</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F669F988</key>
+        <key>E1FC0349</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

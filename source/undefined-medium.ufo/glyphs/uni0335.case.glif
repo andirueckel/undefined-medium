@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0335.case" format="2">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="300" identifier="80BCA376"/>
-    <component base="pixel" xOffset="250" yOffset="300" identifier="629123F6"/>
-    <component base="pixel" xOffset="350" yOffset="300" identifier="45B40467"/>
+    <component base="pixel" xOffset="150" yOffset="300" identifier="69B05D4B"/>
+    <component base="pixel" xOffset="250" yOffset="300" identifier="539D6191"/>
+    <component base="pixel" xOffset="350" yOffset="300" identifier="F77244C8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-31 09:30:00 +0000</string>
+      <string>2024-04-30 06:24:57 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>45B40467</key>
+        <key>539D6191</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>629123F6</key>
+        <key>69B05D4B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>80BCA376</key>
+        <key>F77244C8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

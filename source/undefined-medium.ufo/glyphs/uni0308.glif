@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0308" format="2">
-  <advance width="600"/>
+  <advance width="0"/>
   <unicode hex="0308"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="600" identifier="8A017195"/>
-    <component base="pixel" xOffset="350" yOffset="600" identifier="468FC7C8"/>
+    <component base="pixel" xOffset="150" yOffset="600" identifier="D656B1BA"/>
+    <component base="pixel" xOffset="350" yOffset="600" identifier="AEDAE4ED"/>
   </outline>
   <lib>
     <dict>
@@ -12,12 +12,12 @@
       <string>2022-12-31 08:50:12 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>468FC7C8</key>
+        <key>AEDAE4ED</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8A017195</key>
+        <key>D656B1BA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

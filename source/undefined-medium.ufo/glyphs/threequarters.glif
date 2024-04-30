@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threequarters" format="2">
-  <advance width="1200" height="0"/>
+  <advance width="600" height="1400"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="slash" xOffset="350" identifier="4260BD24"/>
-    <component base="uni2074" xOffset="750" yOffset="-500" identifier="ABF26172"/>
-    <component base="uni00B3" xOffset="50" yOffset="-200" identifier="25FE79FD"/>
+    <component base="slash" xOffset="350" identifier="285BC00A"/>
+    <component base="uni2074" xOffset="750" yOffset="-500" identifier="37FAAB02"/>
+    <component base="uni00B3" xOffset="50" yOffset="-200" identifier="B0669ED6"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-01-03 10:20:27 +0000</string>
+      <string>2024-04-20 10:52:46 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>25FE79FD</key>
+        <key>285BC00A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4260BD24</key>
+        <key>37FAAB02</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>ABF26172</key>
+        <key>B0669ED6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

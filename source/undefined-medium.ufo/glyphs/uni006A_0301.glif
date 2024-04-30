@@ -2,16 +2,16 @@
 <glyph name="uni006A0301" format="2">
   <advance width="600"/>
   <outline>
-    <component base="uni0237" identifier="430471DE"/>
-    <component base="acutecomb" xOffset="150"/>
+    <component base="uni0237" identifier="E3A083B8"/>
+    <component base="acutecomb" xOffset="100"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-12-31 09:16:16 +0000</string>
+      <string>2024-04-16 07:12:29 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>430471DE</key>
+        <key>E3A083B8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

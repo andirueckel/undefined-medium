@@ -1,5 +1,62 @@
 # CHANGELOG
 
+## v1.300
+
+### glyph additions
+
+- add glyph for `Ccircumflex`
+- add glyph for `Etilde`
+- add glyph for `Ezh`
+- add glyph for `Ezhcaron`
+- add glyph for `Gcaron`
+- add glyph for `Gcircumflex`
+- add glyph for `Gmacron`
+- add glyph for `Gstroke`
+- add glyph for `Hcircumflex`
+- add glyph for `Itilde`
+- add glyph for `Jcircumflex`
+- add glyph for `Kcaron`
+- add glyph for `Scircumflex`
+- add glyph for `Ubreve`
+- add glyph for `Utilde`
+- add glyph for `Ytilde`
+- add glyph for `Saltillo`
+- add glyph for `Lcommaaccent.localMAH`
+- add glyph for `Ncommaaccent.localMAH`
+<br /><br />
+- add glyph for `ccircumflex`
+- add glyph for `etilde`
+- add glyph for `ezh`
+- add glyph for `ezhcaron`
+- add glyph for `gcaron`
+- add glyph for `gcircumflex`
+- add glyph for `gmacron`
+- add glyph for `gstroke`
+- add glyph for `hcircumflex`
+- add glyph for `itilde`
+- add glyph for `jcircumflex`
+- add glyph for `kcaron`
+- add glyph for `scircumflex`
+- add glyph for `ubreve`
+- add glyph for `utilde`
+- add glyph for `ytilde`
+- add glyph for `saltillo`
+- add glyph for `lcommaaccent.localMAH`
+- add glyph for `ncommaaccent.localMAH`
+- add glyph for `fi` (standard ligature)
+- add glyph for `fl` (standard ligature)
+<br /><br />
+- add glyph for `ommaaccentcomb.localMAH`
+- add glyph for `apostrophemod`
+- add glyph for `primemod`
+- add glyph for `verticallinemod`
+
+### glyph improvements
+
+- improvements for `ij`
+- improvements for `j` + `j*` combinations
+- improvements for `fi`
+
 ## v1.200
 
 ### glyph improvements

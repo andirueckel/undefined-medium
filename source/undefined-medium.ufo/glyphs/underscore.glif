@@ -4,7 +4,7 @@
   <unicode hex="005F"/>
   <outline>
     <component base="pixel" xOffset="50" yOffset="-100"/>
-    <component base="pixel" xOffset="150" yOffset="-100" identifier="A84EAE6E"/>
+    <component base="pixel" xOffset="150" yOffset="-100" identifier="5787E496"/>
     <component base="pixel" xOffset="250" yOffset="-100"/>
     <component base="pixel" xOffset="350" yOffset="-100"/>
     <component base="pixel" xOffset="450" yOffset="-100"/>
@@ -15,7 +15,7 @@
       <string>2022-12-31 13:28:43 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>A84EAE6E</key>
+        <key>5787E496</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

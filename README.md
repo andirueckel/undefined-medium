@@ -1,10 +1,10 @@
 # undefined medium
 
-[undefined medium](https://undefined-medium.com) is a free and open-source pixel grid-based monospace typeface suitable for programming, writing, and whatever else you can think of … it’s pretty undefined.
+[undefined medium](https://undefined-medium.com) is a free and open-source pixel grid-based monospace typeface with some double-spaced characters; in some applications, for example most terminal emulators, double-spaced characters need to be followed by an additional space character.
 
-It is inspired by many 5×7 pixel grid typefaces, especially Gilles Boccon-Gibod’s [MonteCarlo](https://www.bok.net/MonteCarlo), which is unfortunately, since 2010, no longer maintained.
+It is inspired by many 5×7 pixel grid typefaces, especially Gilles Boccon-Gibod’s [MonteCarlo](https://www.bok.net/MonteCarlo), which is unfortunately, seemingly since approximately 2010, no longer maintained.
 
-The 400+ character set fully supports Latin Extended-A with Western European, Central European, and South Eastern European languages.
+The 500+ character set fully supports Latin Extended-A with Western/Central/South-Eastern European, South American, Oceanian, Sámi, and Esperanto languages (according to the Glyphs font editor).
 
 In addition, there’s many typographical symbols, mathematical symbols, subscripts, superscripts, double-spaced fractions, regular arrows, double-spaced long arrows, a copyleft symbol, a capital sharp s character, et cetera, see below.
 

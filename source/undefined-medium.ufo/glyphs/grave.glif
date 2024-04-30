@@ -3,9 +3,9 @@
   <advance width="600"/>
   <unicode hex="0060"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="700" identifier="E40917FA"/>
-    <component base="pixel" xOffset="250" yOffset="600" identifier="DFA602F2"/>
-    <component base="pixel" xOffset="350" yOffset="500" identifier="4D7410A1"/>
+    <component base="pixel" xOffset="150" yOffset="700" identifier="233A13B5"/>
+    <component base="pixel" xOffset="250" yOffset="600" identifier="93D8CB40"/>
+    <component base="pixel" xOffset="350" yOffset="500" identifier="6E0D402E"/>
   </outline>
   <lib>
     <dict>
@@ -13,17 +13,17 @@
       <string>2022-12-31 08:07:01 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4D7410A1</key>
+        <key>233A13B5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DFA602F2</key>
+        <key>6E0D402E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E40917FA</key>
+        <key>93D8CB40</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

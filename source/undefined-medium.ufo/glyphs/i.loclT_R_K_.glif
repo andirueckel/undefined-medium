@@ -2,8 +2,8 @@
 <glyph name="i.loclTRK" format="2">
   <advance width="600"/>
   <outline>
-    <component base="dotlessi" identifier="3D806593"/>
-    <component base="uni0307" identifier="4F1F1C98"/>
+    <component base="dotlessi" identifier="0D2C7601"/>
+    <component base="uni0307" identifier="C28D6145"/>
   </outline>
   <lib>
     <dict>
@@ -11,12 +11,12 @@
       <string>2022-12-26 11:24:41 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3D806593</key>
+        <key>0D2C7601</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4F1F1C98</key>
+        <key>C28D6145</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

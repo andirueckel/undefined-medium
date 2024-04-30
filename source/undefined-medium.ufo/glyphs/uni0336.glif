@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0336" format="2">
-  <advance width="600"/>
+  <advance width="0"/>
   <unicode hex="0336"/>
   <outline>
-    <component base="pixel" xOffset="-50" yOffset="500" identifier="6D33F9A4"/>
-    <component base="pixel" xOffset="50" yOffset="500" identifier="14670436"/>
-    <component base="pixel" xOffset="150" yOffset="500" identifier="B53A0C9D"/>
-    <component base="pixel" xOffset="250" yOffset="500" identifier="E3224C17"/>
-    <component base="pixel" xOffset="350" yOffset="500" identifier="84939673"/>
-    <component base="pixel" xOffset="450" yOffset="500" identifier="97AABA29"/>
-    <component base="pixel" xOffset="550" yOffset="500" identifier="2FC21429"/>
+    <component base="pixel" xOffset="-50" yOffset="500" identifier="DF16547C"/>
+    <component base="pixel" xOffset="50" yOffset="500" identifier="FB7FDC24"/>
+    <component base="pixel" xOffset="150" yOffset="500" identifier="8F908B18"/>
+    <component base="pixel" xOffset="250" yOffset="500" identifier="FCBF7719"/>
+    <component base="pixel" xOffset="350" yOffset="500" identifier="E4A89326"/>
+    <component base="pixel" xOffset="450" yOffset="500" identifier="46A4CF10"/>
+    <component base="pixel" xOffset="550" yOffset="500" identifier="409ABA6C"/>
   </outline>
   <lib>
     <dict>
@@ -17,37 +17,37 @@
       <string>2022-12-31 08:05:42 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>14670436</key>
+        <key>409ABA6C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2FC21429</key>
+        <key>46A4CF10</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6D33F9A4</key>
+        <key>8F908B18</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>84939673</key>
+        <key>DF16547C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>97AABA29</key>
+        <key>E4A89326</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B53A0C9D</key>
+        <key>FB7FDC24</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E3224C17</key>
+        <key>FCBF7719</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

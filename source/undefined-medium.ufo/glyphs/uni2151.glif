@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2151" format="2">
-  <advance width="1200" height="0"/>
+  <advance width="600" height="1400"/>
   <unicode hex="2151"/>
   <outline>
-    <component base="uni00B9" xOffset="50" yOffset="-200" identifier="0E0C1AAE"/>
-    <component base="slash" xOffset="350" identifier="12263894"/>
-    <component base="uni2079" xOffset="750" yOffset="-500" identifier="30947910"/>
+    <component base="uni00B9" xOffset="50" yOffset="-200" identifier="6CBC1868"/>
+    <component base="slash" xOffset="350" identifier="762A52BD"/>
+    <component base="uni2079" xOffset="750" yOffset="-500" identifier="B98C6394"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-01-03 10:20:27 +0000</string>
+      <string>2024-04-20 10:53:26 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0E0C1AAE</key>
+        <key>6CBC1868</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>12263894</key>
+        <key>762A52BD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>30947910</key>
+        <key>B98C6394</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

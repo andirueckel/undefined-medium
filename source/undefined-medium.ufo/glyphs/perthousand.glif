@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="perthousand" format="2">
-  <advance width="1200" height="0"/>
+  <advance width="600" height="1400"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="pixel" xOffset="550" identifier="706FBE35"/>
-    <component base="pixel" xOffset="650" yOffset="200" identifier="2549D261"/>
-    <component base="pixel" xOffset="750" yOffset="200" identifier="DC8D6CA9"/>
-    <component base="pixel" xOffset="650" identifier="85F5C92E"/>
-    <component base="pixel" xOffset="750" yOffset="100" identifier="1C6B6134"/>
-    <component base="pixel" xOffset="550" yOffset="100" identifier="8F3D9E9B"/>
+    <component base="pixel" xOffset="550" identifier="BD4B69D7"/>
+    <component base="pixel" xOffset="650" yOffset="200" identifier="55557D6D"/>
+    <component base="pixel" xOffset="750" yOffset="200" identifier="22460B06"/>
+    <component base="pixel" xOffset="650" identifier="ED0B0CEE"/>
+    <component base="pixel" xOffset="750" yOffset="100" identifier="F973129B"/>
+    <component base="pixel" xOffset="550" yOffset="100" identifier="EEABECF9"/>
     <component base="percent"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-01-03 10:20:32 +0000</string>
+      <string>2024-04-20 10:52:22 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>1C6B6134</key>
+        <key>22460B06</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2549D261</key>
+        <key>55557D6D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>706FBE35</key>
+        <key>BD4B69D7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>85F5C92E</key>
+        <key>ED0B0CEE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8F3D9E9B</key>
+        <key>EEABECF9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DC8D6CA9</key>
+        <key>F973129B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

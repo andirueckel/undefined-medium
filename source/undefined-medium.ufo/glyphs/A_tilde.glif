@@ -3,8 +3,8 @@
   <advance width="600"/>
   <unicode hex="00C3"/>
   <outline>
-    <component base="A" identifier="A65F4AF6"/>
-    <component base="tildecomb.case" identifier="ADBFB420"/>
+    <component base="A" identifier="D2F82FCE"/>
+    <component base="tildecomb.case" identifier="FE3A8A22"/>
   </outline>
   <lib>
     <dict>
@@ -12,12 +12,12 @@
       <string>2019-01-09 02:21:42 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>A65F4AF6</key>
+        <key>D2F82FCE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>ADBFB420</key>
+        <key>FE3A8A22</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

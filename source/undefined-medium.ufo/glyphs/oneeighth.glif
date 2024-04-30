@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneeighth" format="2">
-  <advance width="1200" height="0"/>
+  <advance width="600" height="1400"/>
   <unicode hex="215B"/>
   <outline>
-    <component base="uni00B9" xOffset="50" yOffset="-200" identifier="467531B6"/>
-    <component base="slash" xOffset="350" identifier="91DB8D31"/>
-    <component base="uni2078" xOffset="750" yOffset="-500" identifier="98769AAE"/>
+    <component base="uni00B9" xOffset="50" yOffset="-200" identifier="D9DCAD68"/>
+    <component base="slash" xOffset="350" identifier="2EC1C4CE"/>
+    <component base="uni2078" xOffset="750" yOffset="-500" identifier="E76B4B53"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-01-03 10:20:27 +0000</string>
+      <string>2024-04-20 10:53:19 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>467531B6</key>
+        <key>2EC1C4CE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>91DB8D31</key>
+        <key>D9DCAD68</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>98769AAE</key>
+        <key>E76B4B53</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
